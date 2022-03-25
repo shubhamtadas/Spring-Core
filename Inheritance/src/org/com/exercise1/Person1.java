@@ -1,6 +1,6 @@
-package org.com;
+package org.com.exercise1;
 
-public class Person {
+public class Person1 {
 	String name;
 
 	public String getName() {

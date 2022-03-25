@@ -1,6 +1,6 @@
-package org.com;
+package org.com.exercise2;
 
-public class Person {
+public class Person2 {
 	String name;
 
 	public String getName() {
@@ -10,4 +10,5 @@ public class Person {
 	public void setName(String name) {
 		this.name = name;
 	}
+
 }

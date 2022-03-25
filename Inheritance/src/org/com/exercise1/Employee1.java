@@ -1,6 +1,6 @@
-package org.com;
+package org.com.exercise1;
 
-public class Employee extends Person {
+public class Employee1 extends Person1 {
 	int employeeNumber;
 
 	public int getEmployeeNumber() {
